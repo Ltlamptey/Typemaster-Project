@@ -49,17 +49,7 @@
                         margin-left: 50px;
                     }
                     
-                    #orange::after {
-                        position: absolute;
-                        content: '';
-                        height: 100%;
-                        width: 100%;
-                        left: 0;
-                        top: 0;
-                        background-color: #f26818;
-                        opacity: 0.5;
-                    }
-                    
+                                      
                     .cta__button,
                     .header__button {
                         align-self: center;
