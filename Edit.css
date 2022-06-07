@@ -106,6 +106,7 @@
                         .header__button {
                             width: 10.9375rem;
                             height: 3.8rem;
+                            line-height: 1rem;
                         }
                     }
                     
@@ -118,6 +119,7 @@
                         .header__button {
                             width: 10.9375rem;
                             height: 3.625rem;
+                            line-height: 1rem;
                         }
                     }
                     
@@ -211,6 +213,8 @@
                             height: 3.8rem;
                             font-size: transform: scale(0.8);
                             margin-bottom: 5px;
+                          line-height: 1rem;
+                         
                         }
                         .cta__image {
                             background-image: url(../../assets/tablet/image-keyboard.jpg);
