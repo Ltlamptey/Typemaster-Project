@@ -105,7 +105,7 @@
                         }
                         .header__button {
                             width: 10.9375rem;
-                            height: 3.8rem;
+                            height: 3.626rem;
                             line-height: 1rem;
                         }
                     }
@@ -210,9 +210,7 @@
                         }
                         .cta__button {
                             width: 10.9375rem;
-                            height: 3.8rem;
-                            font-size: transform: scale(0.8);
-                            margin-bottom: 5px;
+                            height: 3.626rem;
                           line-height: 1rem;
                          
                         }
@@ -472,54 +470,7 @@
                         border-radius: 1rem;
                     }
                     
-                    @media screen and (min-width: 48rem) and (max-width: 75.625rem) {
-                        .features {
-                            max-width: 50rem;
-                            display: flex;
-                            flex-wrap: wrap;
-                            justify-content: center;
-                            margin-left: auto;
-                            margin-right: auto;
-                        }
-                        .features__block {
-                            max-width: 17.5625rem;
-                            margin: 0 4.3125rem 4.5rem 0;
-                            align-items: flex-start;
-                        }
-                        .features__block h3 {
-                            width: 13.4375rem;
-                            text-align: left;
-                            margin: 2.5rem 0 1.5rem 0;
-                        }
-                        .features__block p {
-                            width: 17.5625rem;
-                            text-align: left;
-                            margin: 0 0 1.5rem 0;
-                        }
-                    }
                     
-                    @media screen and (min-width: 75.625rem) {
-                        .features {
-                            max-width: 90rem;
-                            display: flex;
-                            justify-content: center;
-                        }
-                        .features__block {
-                            max-width: 15.9375rem;
-                            margin: 0 1.875rem 4.5rem 0;
-                            align-items: flex-start;
-                        }
-                        .features__block h3 {
-                            width: 13.4375rem;
-                            text-align: left;
-                            margin: 2.5rem 0 1.5rem 0;
-                        }
-                        .features__block p {
-                            width: 15.9375rem;
-                            text-align: left;
-                            margin: 0 0 1.5rem 0;
-                        }
-                    }
                     
                     .footer {
                         max-width: 23.4375rem;
