@@ -209,7 +209,7 @@
                         .cta__button {
                             width: 10.9375rem;
                             height: 3.625rem;
-                            justify-content: center;
+                            font-size: transform: scale(0.8);
                         }
                         .cta__image {
                             background-image: url(../../assets/tablet/image-keyboard.jpg);
