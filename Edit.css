@@ -2,14 +2,12 @@
                         font-family: "Barlow", sans-serif;
                         background-color: white;
                         overflow-x: hidden;
-                       margin: 20px;
                     }
                     
                     html {
                         box-sizing: border-box;
                         font-size: 1rem;
                     }
-                   
                     
                     *,
                     *:before,
@@ -49,17 +47,8 @@
                     
                     .intro__image-left {
                         margin-left: 50px;
-                      position: relative;
                     }
-                    .intro__image-left::after{
-                      position: absolute;
-                      content: '';
-                      height: 100%;
-                      width: 100%;
-                      left: 0;
-                      top: 0;
-                      background-color: hsla(22°, 89%, 52%, 0.6);
-                      
+                    
                     #orange::after {
                         position: absolute;
                         content: '';
