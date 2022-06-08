@@ -181,6 +181,8 @@
                     .cta__button {
                         background-color: #f26818;
                         color: white;
+                      width: 15rem;
+                      
                     }
                     
                     .cta__button:hover {
