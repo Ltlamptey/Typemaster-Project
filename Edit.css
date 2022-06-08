@@ -81,8 +81,7 @@
                     
                     .cta__button,
                     .header__button {
-                        width: 10.4375rem;
-                        height: 3rem;
+                       height: 3rem;
                         padding: 0.6875rem 0.8438rem;
                     }
                     
@@ -256,7 +255,7 @@
                             justify-content: left;
                         }
                         .cta__button {
-                            width: 10.9375rem;
+                            width: 15rem;
                             height: 3.625rem;
                         }
                         .cta__image {
